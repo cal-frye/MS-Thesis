@@ -17,3 +17,7 @@ BSA-AGE is added in uniform concentration to either the top compartment (migrato
 The plate is then incubated at 37ºC, 5% CO2, 90% humidity for 4 hours.
 Media and signalling cells are collected, and the bottoms of the inserts are stained to allow detection of cells that have successfully migrated through the 8um membrane.
 The quantification of these migratory cells is what the associated scripts are designed to process.
+
+The code/files associated with processing Migration are:
+- ImageJ-Migration-Macro.ijm
+- Migration Data Analysis.R
