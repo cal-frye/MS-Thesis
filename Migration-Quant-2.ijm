@@ -1,4 +1,4 @@
-makeRectangle(789, 413, 1641, 1641);
+makeRectangle(1125, 750, 1000, 1000);
 run("Crop");
 
 run("16-bit");
