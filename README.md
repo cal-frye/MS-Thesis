@@ -1,15 +1,15 @@
-# 'MS-Thesis' repository
+# 'MS-Thesis' Repository
 Things made to help me process data from wet lab experiments.
 
-# The research project
+# The Research Project
 My research at the Medical University of South Carolina (MUSC) focuses on the effects of advanced glycation end products (AGEs) on prostate cancer (PCa) via modulation of macrophage activity and metabolism.
 
-# Types of experiments
+# Types of Experiments
 - Migration assay
 - Immunohistochemistry (IHC) stain
 - Quantitative Polymerase Chain Reaction (qPCR)
 
-# ABOUT: Migration assay
+# Migration Assay
 To study the effect of AGEs on intercellular signaling via soluble factors and associated cell migration.
 Signalling cells are placed in the wells of a tissue culture plate, and migratory cells are placed in a 8um insert added to each well.
 Both groups of cells are immersed in liquid media.
